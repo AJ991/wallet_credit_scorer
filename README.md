@@ -46,5 +46,6 @@ Each wallet is evaluated based on the following features:
 - Distribution of credit scores
 - Clustering of wallet behaviors
 - Repay ratio vs. credit score scatter plots
+- Wallet credit scores vs. number of liquidations
 
 
