@@ -48,4 +48,8 @@ Each wallet is evaluated based on the following features:
 - Repay ratio vs. credit score scatter plots
 - Wallet credit scores vs. number of liquidations
 
+---
+## 💻 Execution
+Run main.pynb with the target Aave V2 protocol transaction file
+
 
